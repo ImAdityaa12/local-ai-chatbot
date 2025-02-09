@@ -19,7 +19,7 @@ ollama run deepseek-r1:7b
 
 ### 2️⃣ Clone This Repository
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/ImAdityaa12/local-ai-chatbot
 cd your-repo
 ```
 
